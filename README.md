@@ -1,7 +1,7 @@
 # React-EmojiSearch-Test
  
 
-[preview](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/react-patika/odev5/figures/preview.png)
+![image](https://github.com/elaldiaysenur/React-EmojiSearch-Test/assets/84620334/b030cb6d-ff36-4769-8e13-101456729b44)
 
 Uygulama üzerinde bazı emojiler listeleniyor. Ve yukarıda bulunan input aracılığı ile listelenen emojiler filtrelenebiliyor.
 
